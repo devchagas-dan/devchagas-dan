@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Android Application Projects
 - 📫 You can reach me on dannyella.ccardoso@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a crazy cat person
+- ⚡ Fun fact: I love cats and cycling
 
 <!---
 devchagas-dan/devchagas-dan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
