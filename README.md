@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devchagas-dan
+- 👋 Hi, I’m Daniela Chagas
 - 👀 I’m interested in Science, Technology, English and Cycling
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Android Application Projects
