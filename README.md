@@ -3,7 +3,6 @@
 - 💞️ I’m looking forward to collaborating on Android Application Projects
 - 📫 You can reach me on dannyella.ccardoso@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love cats and cycling
 
 <!---
 devchagas-dan/devchagas-dan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
