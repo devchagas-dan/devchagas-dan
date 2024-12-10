@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniela Chagas
 - 👀 I’m interested in Science, Technology, English and Cycling
-- 💞️ I’m looking forward to collaborating on Android Application Projects
+- 💞️ I’m looking forward to collaborating on Java Projects
 - 📫 You can reach me on dannyella.ccardoso@gmail.com
 - 😄 Pronouns: she/her
 
